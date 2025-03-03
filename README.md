@@ -1,7 +1,7 @@
 ![Screenshot 2025-03-03 183907](https://github.com/user-attachments/assets/b9271dea-f058-4578-bcce-ccdecffb590c)
 
 
-# password-generator
+# Password-Generator
 
 # Description
 A responsive and customizable password generator built using HTML, Tailwind CSS, and vanilla JavaScript. The project allows users to generate secure passwords with configurable options such as length, character types (uppercase, lowercase, numbers, symbols), and instant copy-to-clipboard functionality. The interface is styled using Tailwind CSS for modern design and mobile-first responsiveness.
